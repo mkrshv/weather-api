@@ -3,7 +3,8 @@ package tests
 import (
 	"fmt"
 	"testing"
-	"weatherapi"
+
+	weatherapi "github.com/mkrshv/weather-api"
 )
 
 func TestGetWeather(t *testing.T) {
