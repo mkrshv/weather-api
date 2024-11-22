@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	weatherapi "github.com/mkrshv/weather-api"
+	weatherapi "github.com/mkrshv/weatherapi"
 )
 
 func TestGetWeather(t *testing.T) {
